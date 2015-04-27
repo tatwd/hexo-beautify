@@ -1,0 +1,44 @@
+{
+  "name": "hexo-beautify",
+  "version": "0.0.1",
+  "description": "Beautify Hexo generated HTML, CSS and JS files, using js-beautify.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/celsomiranda/hexo-beautify.git"
+  },
+  "keywords": [
+    "hexo",
+    "hexo-plugin",
+    "hexo-filter",
+    "beautify",
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "Celso Miranda <contacto@celsomiranda.net> (http://celsomiranda.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/celsomiranda/hexo-beautify/issues"
+  },
+  "homepage": "https://github.com/celsomiranda/hexo-beautify",
+  "dependencies": {
+    "js-beautify": "^1.5.5",
+    "minimatch": "^2.0.4"
+  },
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "coveralls": "^2.11.2",
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-istanbul": "^0.8.1",
+    "gulp-jshint": "^1.10.0",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-mocha": "^2.0.1",
+    "jshint-stylish": "^1.0.1",
+    "mocha": "^2.2.4"
+  }
+}
