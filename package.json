@@ -1,6 +1,6 @@
 {
   "name": "hexo-beautify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Beautify Hexo generated HTML, CSS and JS files, using js-beautify.",
   "main": "index.js",
   "scripts": {
