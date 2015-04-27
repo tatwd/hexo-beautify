@@ -1,4 +1,8 @@
 # Hexo Beautify
+[![Build Status](https://travis-ci.org/celsomiranda/hexo-beautify.svg)](https://travis-ci.org/celsomiranda/hexo-beautify)
+[![NPM Version](https://badge.fury.io/js/hexo-renderer-yasr.svg)](http://badge.fury.io/js/hexo-renderer-yasr)
+[![NPM Dependencies](https://david-dm.org/celsomiranda/hexo-renderer-yasr.svg)](https://www.npmjs.com/package/hexo-renderer-yasr)
+[![Coverage Status](https://coveralls.io/repos/celsomiranda/hexo-beautify/badge.svg)](https://coveralls.io/r/celsomiranda/hexo-beautify)
 
 A Hexo filter wrapper for `js-beautify`. Supports HTML, CSS and JS files.
 
