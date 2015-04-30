@@ -30,16 +30,16 @@ beautify:
     'indent_inner_html': false
     'indent_size': 2
     'indent_with_tabs': false
-    # (...)
+    # More Options (https://github.com/beautify-web/js-beautify/blob/master/README.md)
   css:
     'indent_size': 2
     'newline_between_rules': true
     'indent_with_tabs': false
-    # (...)
+    # More Options (https://github.com/beautify-web/js-beautify/blob/master/README.md)
   js:
     'indent_size': 2
     'indent_with_tabs': false
-    # (...)
+    # More Options (https://github.com/beautify-web/js-beautify/blob/master/README.md)
 ```
 
-You can discover [more options](https://github.com/beautify-web/js-beautify) in the `js-beautify` repo.
+You can discover [more options in the README](https://github.com/beautify-web/js-beautify/blob/master/README.md) of the `js-beautify` project.
